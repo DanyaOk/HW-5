@@ -18,7 +18,7 @@ public class Main {
 
 
 
-int deliveryDistance=120;
+int deliveryDistance=95;
         int day=1;
 
         if (deliveryDistance<=20) {
